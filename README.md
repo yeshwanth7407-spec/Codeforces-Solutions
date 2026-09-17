@@ -6,14 +6,14 @@ Archive of competitive programming solutions from Codeforces contests and proble
 - **Codeforces:** [Lucky_0704](https://codeforces.com/profile/Lucky_0704)
 
 ## 📊 Progress Dashboard
-- **Total Problems Solved:** 0
-- **Categories Covered:** 0
+- **Total Problems Solved:** 1
+- **Categories Covered:** 1
 
 ## 📚 Problem Catalog
 
 | # | Problem | Contest / ID | Rating | Topic | Solution | Date |
 |---|---------|:------------:|:------:|-------|:--------:|------|
-| - | No problems added yet | - | - | - | - | - |
+| 1 | Way Too Long Words | [71A](https://codeforces.com/problemset/problem/71/A) | `800` | `Strings` | [WayTooLongWords.cpp](./Rating_800/WayTooLongWords.cpp) | 2026-09-17 |
 
 ---
 *Auto-updated via [GitHub Actions](.github/workflows/update_readme.yml).*
